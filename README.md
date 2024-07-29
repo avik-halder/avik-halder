@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **frontend development**
 
-- 👨‍💻 All of my projects are available at [https://avik-halder.vercel.app/](https://avik-halder.vercel.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://avik-halder.vercel.app/)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **2001009@iot.bdu.ac.bd**
+- 📫 How to reach me at gmail(2001009@iot.bdu.ac.bd)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk](https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I'm an Ambivert**
 
