@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me at gmail(2001009@iot.bdu.ac.bd)
+- 📫 How to reach me at [gmail](2001009@iot.bdu.ac.bd)
 
 - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk)
 
