@@ -1,32 +1,75 @@
-This is basically a backend web project of real-time location tracking application using Node.js, Express, Socket.IO, and Leaflet.js. This application tracks the location of users and displays their<h1 align="center">Hi 👋, I'm Avik Halder</h1>
-<h3 align="center">A Web Dev Enthusiestic from Bangladesh</h3>
+<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l5YXpoYnN5MGh1cmFqNDlkdXhkMTB3Zng3aXc1Ym9oeGh3ZTdpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avik-halder&label=Profile%20views&color=0e75b6&style=flat" alt="avik-halder" /> </p>
 
-- 🔭 I’m currently working on **frontend development**
+###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=avik-halder&label=Profile%20views&color=0e75b6&style=flat" alt="avik-halder" />
+</div>
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=avik-halder.avik-halder" alt="avik-halder" />
+</div> -->
+<h1 align="center" ><b> <i>Hey 🙋‍♂️ I'm Avik Halder</i></b></h1>
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://avik-halder.vercel.app/)
 
-- 💬 Ask me about **anything**
 
-- 📫 How to reach me at [gmail](2001009@iot.bdu.ac.bd)
-
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk)
-
-- ⚡ Fun fact **I think I'm an Ambivert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avik-halder-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik-halder-" height="30" width="40" /></a>
-<a href="https://fb.com/ah.bd.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ah.bd.0" height="30" width="40" /></a>
-<a href="https://instagram.com/avik_the_ambivert_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avik_the_ambivert_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@avikhalder3029" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@avikhalder3029" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/avik-halder/"><img src="https://img.shields.io/badge/-avik%20halder-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: avik-halder"></a> <a href="https://github.com/avik-halder"><img src="https://img.shields.io/github/followers/avik-halder?label=Follow&style=social" alt="GitHub followers"></a> <a href="https://www.facebook.com/ah.bd.0"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/avik_the_ambivert_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a> <a href="https://twitter.com/intent/follow?screen_name=your-twitter-handle"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow" alt="Twitter Follow"></a> <a href="https://avik-halder.vercel.app/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik-halder&show_icons=true&locale=en&layout=compact" alt="avik-halder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&" alt="avik-halder" /></p>
- positions on an interactive map.
+
+
+
+## 👇Hit in your console or terminal to connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+```bash
+npx anmol
+```
+
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
+   🔭 I’m currently exploring <b>IT sector</b> <br/>
+   🤝 I’m looking for help with <b>Web Development</b>b> <br/>
+   🌱 I’m currently learning <b>MERN stack</b>b> <br/>
+   ⚡ Fun fact <b>I think I'm an Ambivert</b>b> <br/>
+   - 👨‍💻 All of my projects are available at my <a href="https://avik-halder.vercel.app/">portfolio</a> <br/>
+   - 📄 Know about my experiences at my <a href="https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk">resume</a>
+
+   
+# 💻 Language and tools:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white)
+![Github](https://img.shields.io/badge/github-121013?style=flat&logo=github&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=%23000000)
+
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avik-halder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" width="220"/>
+</div>
+<br/><br/>
+<div>
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder"/> 
+     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats"/>
+</div>
