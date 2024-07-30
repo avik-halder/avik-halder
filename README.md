@@ -64,12 +64,14 @@ npx anmol
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=%23000000)
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder"/> 
+<br/><br/>
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avik-halder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" width="220"/>
 </div>
 <br/><br/>
-<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats"/>
+<!-- <div align="center">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder"/> 
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats"/>
-</div>
+</div> -->
