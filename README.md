@@ -24,14 +24,14 @@
 ## 👇Hit in your console or terminal to connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 ```bash
-npx anmol
+npx avik-halder
 ```
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
    🔭 I’m currently exploring <b>IT sector</b> <br/>
-   🤝 I’m looking for help with <b>Web Development</b>b> <br/>
-   🌱 I’m currently learning <b>MERN stack</b>b> <br/>
-   ⚡ Fun fact <b>I think I'm an Ambivert</b>b> <br/>
+   🤝 I’m looking for help with <b>Web Development</b> <br/>
+   🌱 I’m currently learning <b>MERN stack</b> <br/>
+   ⚡ Fun fact <b>I think I'm an Ambivert</b> <br/>
    - 👨‍💻 All of my projects are available at my <a href="https://avik-halder.vercel.app/">portfolio</a> <br/>
    - 📄 Know about my experiences at my <a href="https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk">resume</a>
 
