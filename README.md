@@ -69,7 +69,7 @@ npx anmol
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" width="220"/>
 </div>
 <br/><br/>
-<div>
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder"/> 
-     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats"/>
+<div align="center">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder"/> 
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats"/>
 </div>
